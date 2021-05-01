@@ -1,0 +1,48 @@
+body{
+    background:#000;
+    color:#fff;
+  }
+  #main{
+    width:80%;
+    margin:auto; /*explanation*/
+    height:700px;
+  }
+  #title{
+    font-size:90px; 
+    text-align:center;
+    font-family: 'Lobster', cursive;
+  
+  }
+  span{
+    color:red;
+  }
+  #image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    border-radius:20px;
+  }
+  p{
+    margin-top:3em;
+    font-size:23px;
+    text-align:center;
+  }
+  .comics{
+    font-family: 'Lobster', cursive; 
+    font-size:60px;
+    padding-top:20px;
+  }
+  #tribute-link{
+    text-decoration:none;
+    color:red;
+    text-align:center;
+    font-size:25px;
+  }
+  #tribute-link:hover{
+    color:#fff;
+  }
+  li{
+    font-size:23px;
+    line-height: 1.8;
+  }

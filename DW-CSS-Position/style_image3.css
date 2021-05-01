@@ -1,0 +1,123 @@
+.container {
+    border: 1px solid;
+    height: 400px;
+    width: 400px;
+}
+​
+div {
+    margin: 5px;
+    border: 1px solid black none;
+}
+​
+.yellow {
+    background-color: yellow;
+    width: 98%;
+    height: 20%;
+}
+​
+.blue {
+    background-color: rgb(86, 144, 231);
+    width: 20%;
+    height: 76%;
+}
+​
+.orange {
+    background-color: orange;
+    width: 76%;
+    height: 23%;
+    position: relative;
+    left: 22%;
+    bottom: 77%;
+}
+​
+.red {
+    background-color: red;
+    width: 76%;
+    height: 23%;
+    position: relative;
+    left: 22%;
+    bottom: 75%;
+}
+​
+.green {
+    background-color: green;
+    width: 76%;
+    height: 23%;
+    position: relative;
+    left: 22%;
+    bottom: 73%;
+}
+​
+.y-1 {
+    padding: 5px;
+    background-color: white;
+    width: 100px;
+    position: absolute;
+    top: 30px;
+}
+​
+.y-2 {
+    padding: 5px;
+    background-color: white;
+    width: 50px;
+    position: absolute;
+    top: 30px;
+    left: 150px;
+}
+​
+.y-3 {
+    padding: 5px;
+    background-color: white;
+    width: 50px;
+    position: absolute;
+    top: 30px;
+    left: 230px;
+}
+​
+.y-4 {
+    padding: 5px;
+    background-color: white;
+    width: 50px;
+    position: absolute;
+    top: 30px;
+    left: 150px;
+    left: 310px;
+}
+​
+​
+.alp-d {
+    padding: 5px;
+    background-color: white;
+    width: 55px;
+    position: absolute;
+    top: 30px;
+}
+​
+.alp-c {
+    padding: 5px;
+    background-color: white;
+    width: 55px;
+    position: absolute;
+    top: 30px;
+    left: 75px;
+}
+​
+.alp-b {
+    padding: 5px;
+    background-color: white;
+    width: 55px;
+    position: absolute;
+    top: 30px;
+    left: 150px;
+}
+​
+.alp-a {
+    padding: 5px;
+    background-color: white;
+    width: 55px;
+    position: absolute;
+    top: 30px;
+    left: 150px;
+    left: 225px;
+}
+​
